@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taras Iskiv</h1>
 <h3 align="center">Full-stack developer (.Net + Angular/Blazor)</h3>
-<img alt="smallPhoto" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="400px">
+<img align="right" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="300px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarasiskiv&label=Profile%20views&color=0e75b6&style=flat" alt="tarasiskiv" /> </p>
 
 - 🌱 I’m currently learning **Cosmos DB, Redis, MS Orleans, Docker**
