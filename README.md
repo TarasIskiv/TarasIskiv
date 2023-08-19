@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **taras.iskiv@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="mailto:taras.iskiv@gmail.com">taras.iskiv@gmail.com</a></h3>
 <p align="left">
 </p>
 
