@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taras Iskiv</h1>
-<h3 align="center">I'm Full-Stack developer (.Net + Angular/Blazor)</h3>
+<h3 align="center">I'm a Full-Stack developer (.Net + Angular/Blazor)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarasiskiv&label=Profile%20views&color=0e75b6&style=flat" alt="tarasiskiv" /> </p>
 
